@@ -1,4 +1,4 @@
-import MovieInfo from "../MovieDetails/MOvieInfo";
+import MovieInfo from "../MovieDetails/MovieInfo";
 
 const MovieDetails = ({ movie }) => {
   return (
